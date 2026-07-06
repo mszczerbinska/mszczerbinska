@@ -20,10 +20,8 @@ degradation assays, and then try to explain the phenotypic
 variability using comparative genomics and variant analysis.  
 *(Kraken2 · Nextflow · HMMER · Snippy · SnpEff · ONT sequencing)*
 
-💊 **Summer intern @ AstraZeneca Warsaw** *(Regulatory Affairs, Oncology)*  
-Getting a look at how science translates into medicine from 
-the regulatory side — which fits nicely with my BSc work on 
-signalling in luminal breast cancer.
+🚀 Summer intern @ AstraZeneca Warsaw (Regulatory Affairs, Respiratory & Immunology - Biopharmaceuticals)
+Getting a look at how science translates into medicine from the regulatory side, and how that process works in a different therapeutic area than my usual research focus.
 
 ---
 
