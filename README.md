@@ -1,4 +1,4 @@
-Hi, I'm Maria 👋
+# Hi, I'm Maria 👋
 
 I'm a final-year bioinformatics MSc student at the University of Warsaw and a Regulatory Affairs Associate, currently figuring out how gut bacteria interact with the food we eat — and what that means for our health.
 
